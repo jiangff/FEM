@@ -3,9 +3,7 @@ FEM
 
 Tag videos and find related videos
 
-                         Summary of coding assignment
-                                                          
-                                                      Feifei Jiang
+                            Feifei Jiang
 
 Tag videos:
 
