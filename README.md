@@ -3,8 +3,6 @@ FEM
 
 Tag videos and find related videos
 
-                            Feifei Jiang
-
 Tag videos:
 
  I retrieved actors/actresses, TV shows, films from DPpedia using the SNORQL explorer http://dbpedia.org/snorql/, by inputting command lines as follows: 
